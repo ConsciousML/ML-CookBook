@@ -7,3 +7,9 @@ This document should be used as a reminder for the reader to keep in mind the ba
 
 ## Document
 My Machine Learning Cook Book can be found as a pdf file at the root of the project. 
+
+## References
+The content of this document is a simplification of various sections of these three book:
+- Deep Learning, by A. Courville, Ian Goodfellow, and Yoshua Bengio, 2016.
+- Machine Learning: a probabilistic perspective, by K.P. Murphy, 2012.
+
